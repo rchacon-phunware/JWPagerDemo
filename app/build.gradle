@@ -24,4 +24,5 @@ dependencies {
 	testCompile 'junit:junit:4.12'
 	compile 'com.android.support:support-v4:23.0.0'
 	compile project(':jwplayer-android-sdk-2.1.1+142')
+	compile 'com.google.android.gms:play-services:6.1.11'
 }
