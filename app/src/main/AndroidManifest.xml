@@ -10,6 +10,7 @@
         >
         <activity
             android:name=".MainActivity"
+            android:theme="@style/Demo"
             android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
             android:label="@string/app_name">
             <intent-filter>
